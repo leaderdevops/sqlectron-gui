@@ -78,11 +78,11 @@
   "dependencies": {
     "@babel/core": "^7.9.6",
     "@babel/polyfill": "^7.8.7",
-    "axios": "^0.19.2",
+    "axios": "^1.8.3",
     "bunyan": "^1.8.5",
     "core-js": "^3.6.5",
     "lodash.defaultsdeep": "^4.6.0",
-    "sqlectron-core": "^8.1.0"
+    "sqlectron-core": "^9.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.8.4",
